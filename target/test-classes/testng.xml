@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" thread-count="2">
+	<!-- <listeners> <listener class-name="listeners.MyListener"></listener> 
+		</listeners> -->
+	<test name="Test">
+		<parameter name="logoutMessage" value="Logging user out"></parameter>
+		<groups>
+			<!-- <dependencies> <group depends-on="openBrows" name="loginAcc"></group> 
+				<group depends-on="loginAcc" name="viewAcc"></group> <group depends-on="viewAcc" 
+				name="logoutAcc"></group> </dependencies> -->
+		</groups>
+
+		<classes>
+			<class name="TestModules.Login"></class>
+		</classes>
+	</test>
+
+	<test name="Test2">
+		<classes>
+			<class name="TestModules.Login"></class>
+		</classes>
+	</test>
+</suite> <!-- Suite -->

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Cases Execution Started : Test2
+All Methods : [Lorg.testng.ITestNGMethod;@192011f4
+Passed Tests : [ResultMap map={}]]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Execution Started - createNewAccount
+Start Time : 1618383971053
+End Time : 0]]>
+    </line>
+    <line>
+      <![CDATA[Test Cases Execution Started : Test
+All Methods : [Lorg.testng.ITestNGMethod;@1d2cb92c
+Passed Tests : [ResultMap map={}]]]>
+    </line>
+    <line>
+      <![CDATA[Test Cases Execution Started : Test
+All Methods : [Lorg.testng.ITestNGMethod;@1d2cb92c
+Passed Tests : [ResultMap map={}]]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Execution Started - createNewAccount
+Start Time : 1618383971053
+End Time : 0]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Execution Started - createNewAccount
+Start Time : 1618383971053
+End Time : 0]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Successfully Passed : createNewAccount
+Start Time : 1618383971053
+End Time : 1618384000498]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Successfully Passed : createNewAccount
+Start Time : 1618383971053
+End Time : 1618384000498]]>
+    </line>
+    <line>
+      <![CDATA[Test Cases Execution Started : Test
+All Methods : [Lorg.testng.ITestNGMethod;@1d2cb92c
+Passed Tests : [ResultMap map={}]]]>
+    </line>
+    <line>
+      <![CDATA[Test Cases Execution Started : Test
+All Methods : [Lorg.testng.ITestNGMethod;@1d2cb92c
+Passed Tests : [ResultMap map={}]]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Execution Started - performDressCheckout
+Start Time : 1618384000503
+End Time : 0]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Execution Started - performDressCheckout
+Start Time : 1618384000503
+End Time : 0]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Successfully Passed : createNewAccount
+Start Time : 1618383971053
+End Time : 1618384000508]]>
+    </line>
+    <line>
+      <![CDATA[Test Cases Execution Started : Test2
+All Methods : [Lorg.testng.ITestNGMethod;@192011f4
+Passed Tests : [ResultMap map={}]]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Execution Started - performDressCheckout
+Start Time : 1618384000510
+End Time : 0]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Successfully Passed : performDressCheckout
+Start Time : 1618384000503
+End Time : 1618384024516]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Successfully Passed : performDressCheckout
+Start Time : 1618384000503
+End Time : 1618384024516]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Execution Started - logout
+Start Time : 1618384024519
+End Time : 0]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Execution Started - logout
+Start Time : 1618384024519
+End Time : 0]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Successfully Passed : performDressCheckout
+Start Time : 1618384000510
+End Time : 1618384025579]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Execution Started - logout
+Start Time : 1618384025580
+End Time : 0]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Successfully Passed : logout
+Start Time : 1618384024519
+End Time : 1618384035948]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Successfully Passed : logout
+Start Time : 1618384024519
+End Time : 1618384035948]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Successfully Passed : logout
+Start Time : 1618384025580
+End Time : 1618384036660]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-04-14T12:36:08 IST" name="Suite" finished-at="2021-04-14T12:37:16 IST" duration-ms="67962">
+    <groups>
+    </groups>
+    <test started-at="2021-04-14T12:36:08 IST" name="Test" finished-at="2021-04-14T12:37:16 IST" duration-ms="67219">
+      <class name="TestModules.Login">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TestModules.Login@671a5887]" started-at="2021-04-14T12:36:08 IST" name="beforeTest" finished-at="2021-04-14T12:36:11 IST" duration-ms="2137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:TestModules.Login@671a5887]" started-at="2021-04-14T12:36:11 IST" name="BeforeMethod" finished-at="2021-04-14T12:36:11 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="createNewAccount([Ljava.lang.String;)[pri:0, instance:TestModules.Login@671a5887]" started-at="2021-04-14T12:36:11 IST" name="createNewAccount" data-provider="registrationFormData" finished-at="2021-04-14T12:36:40 IST" duration-ms="29445" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@77132fa7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Execution Started - createNewAccount
+Start Time : 1618383971053
+End Time : 0]]>
+            </line>
+            <line>
+              <![CDATA[Test Case Execution Started - createNewAccount
+Start Time : 1618383971053
+End Time : 0]]>
+            </line>
+            <line>
+              <![CDATA[Test Case Successfully Passed : createNewAccount
+Start Time : 1618383971053
+End Time : 1618384000498]]>
+            </line>
+            <line>
+              <![CDATA[Test Case Successfully Passed : createNewAccount
+Start Time : 1618383971053
+End Time : 1618384000498]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createNewAccount -->
+        <test-method signature="performDressCheckout()[pri:1, instance:TestModules.Login@671a5887]" started-at="2021-04-14T12:36:40 IST" name="performDressCheckout" finished-at="2021-04-14T12:37:04 IST" depends-on-methods="TestModules.Login.createNewAccount" duration-ms="24013" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Execution Started - performDressCheckout
+Start Time : 1618384000503
+End Time : 0]]>
+            </line>
+            <line>
+              <![CDATA[Test Case Execution Started - performDressCheckout
+Start Time : 1618384000503
+End Time : 0]]>
+            </line>
+            <line>
+              <![CDATA[Test Case Successfully Passed : performDressCheckout
+Start Time : 1618384000503
+End Time : 1618384024516]]>
+            </line>
+            <line>
+              <![CDATA[Test Case Successfully Passed : performDressCheckout
+Start Time : 1618384000503
+End Time : 1618384024516]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- performDressCheckout -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:TestModules.Login@671a5887]" started-at="2021-04-14T12:36:40 IST" name="BeforeMethod" finished-at="2021-04-14T12:36:40 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:TestModules.Login@671a5887]" started-at="2021-04-14T12:37:04 IST" name="BeforeMethod" finished-at="2021-04-14T12:37:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="logout(java.lang.String)[pri:2, instance:TestModules.Login@671a5887]" started-at="2021-04-14T12:37:04 IST" name="logout" finished-at="2021-04-14T12:37:15 IST" depends-on-methods="TestModules.Login.performDressCheckout, TestModules.Login.createNewAccount" duration-ms="11429" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Logging user out]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Execution Started - logout
+Start Time : 1618384024519
+End Time : 0]]>
+            </line>
+            <line>
+              <![CDATA[Test Case Execution Started - logout
+Start Time : 1618384024519
+End Time : 0]]>
+            </line>
+            <line>
+              <![CDATA[Test Case Successfully Passed : logout
+Start Time : 1618384024519
+End Time : 1618384035948]]>
+            </line>
+            <line>
+              <![CDATA[Test Case Successfully Passed : logout
+Start Time : 1618384024519
+End Time : 1618384035948]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:TestModules.Login@671a5887]" started-at="2021-04-14T12:37:15 IST" name="afterTest" finished-at="2021-04-14T12:37:16 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestModules.Login -->
+    </test> <!-- Test -->
+    <test started-at="2021-04-14T12:36:08 IST" name="Test2" finished-at="2021-04-14T12:37:16 IST" duration-ms="67962">
+      <class name="TestModules.Login">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:TestModules.Login@51f116b8]" started-at="2021-04-14T12:36:08 IST" name="beforeSuite" finished-at="2021-04-14T12:36:08 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TestModules.Login@51f116b8]" started-at="2021-04-14T12:36:08 IST" name="beforeTest" finished-at="2021-04-14T12:36:11 IST" duration-ms="2177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:TestModules.Login@51f116b8]" started-at="2021-04-14T12:36:11 IST" name="BeforeMethod" finished-at="2021-04-14T12:36:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="createNewAccount([Ljava.lang.String;)[pri:0, instance:TestModules.Login@51f116b8]" started-at="2021-04-14T12:36:11 IST" name="createNewAccount" data-provider="registrationFormData" finished-at="2021-04-14T12:36:40 IST" duration-ms="29455" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@6995ab4a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Execution Started - createNewAccount
+Start Time : 1618383971053
+End Time : 0]]>
+            </line>
+            <line>
+              <![CDATA[Test Case Successfully Passed : createNewAccount
+Start Time : 1618383971053
+End Time : 1618384000508]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createNewAccount -->
+        <test-method signature="performDressCheckout()[pri:1, instance:TestModules.Login@51f116b8]" started-at="2021-04-14T12:36:40 IST" name="performDressCheckout" finished-at="2021-04-14T12:37:05 IST" depends-on-methods="TestModules.Login.createNewAccount" duration-ms="25069" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Execution Started - performDressCheckout
+Start Time : 1618384000510
+End Time : 0]]>
+            </line>
+            <line>
+              <![CDATA[Test Case Successfully Passed : performDressCheckout
+Start Time : 1618384000510
+End Time : 1618384025579]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- performDressCheckout -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:TestModules.Login@51f116b8]" started-at="2021-04-14T12:36:40 IST" name="BeforeMethod" finished-at="2021-04-14T12:36:40 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="logout(java.lang.String)[pri:2, instance:TestModules.Login@51f116b8]" started-at="2021-04-14T12:37:05 IST" name="logout" finished-at="2021-04-14T12:37:16 IST" depends-on-methods="TestModules.Login.performDressCheckout, TestModules.Login.createNewAccount" duration-ms="11080" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Optional Parameter Used]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Execution Started - logout
+Start Time : 1618384025580
+End Time : 0]]>
+            </line>
+            <line>
+              <![CDATA[Test Case Successfully Passed : logout
+Start Time : 1618384025580
+End Time : 1618384036660]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:TestModules.Login@51f116b8]" started-at="2021-04-14T12:37:05 IST" name="BeforeMethod" finished-at="2021-04-14T12:37:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:TestModules.Login@51f116b8]" started-at="2021-04-14T12:37:16 IST" name="afterTest" finished-at="2021-04-14T12:37:16 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestModules.Login -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
